@@ -1,5 +1,5 @@
 # Introduction
-Little program to organize folders, first create te folder with the filetype+'_folder' like 'mp4_folder' then move the files in the folder created.
+Little program to organize folders, first create folder with the filetype+'_folder' like 'mp4_folder' then move the files in the folder created.
 
 ![Screenshot](https://github.com/JunLovin/JunLovin/assets/96802832/b567e9d2-d86e-4c97-b5a4-8e83c8df0c1e)
 
