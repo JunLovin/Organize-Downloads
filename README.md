@@ -5,7 +5,7 @@ Little program to organize folders, first create te folder with the filetype+'_f
 
 # How to use
 For use you must **edit the file_path** of your downloads, in my pc is 'C:\\Users\mathi\Downloads', but your username is not there so you can write your username, just remplace 'mathi' with your username. If you have your downloads in another disk or folder, you just write the path.
-Like this **C:\\Users\yourUsername\Downloads**
-Or this **D:\\Downloads**
+### Like this **C:\\Users\yourUsername\Downloads**
+### Or this **D:\\Downloads**
 
 ![Screenshot 2023-11-02 163512](https://github.com/JunLovin/JunLovin/assets/96802832/04a12e3b-50f8-43a1-9569-eea0547baf8d)
