@@ -13,3 +13,5 @@ It looks like this
 ![Screenshot](https://cdn.discordapp.com/attachments/961452218446405662/1170095605226418256/image.png?ex%253D6557cb73%2526is%253D65455673%2526hm%253D292b82e2c2cd2fc08a3df3ae0d3301397697458c6d08ef13991eca12544ffb0c%2526)
 
 Then the command prompt will close and just open the Downloads folder :)!
+
+![Screenshot](https://cdn.discordapp.com/attachments/961452218446405662/1170097033089134592/image.png?ex%253D6557ccc8%2526is%253D654557c8%2526hm%253D1027ab3f375323e554a6f4a503fa88aae966f1454fb334b29e01b00d487857b7%2526)
