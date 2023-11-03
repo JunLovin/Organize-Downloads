@@ -1,0 +1,9 @@
+Follow this steps to run my program:
+
+-Change the username in notepad or code editor. In file_path='C:\\Users\yourUsername\Downloads'
+-If you have your Downloads folder in another disk, you must write in file_path='D:\Downloads'
+-You need download Python to run the program
+-If the program doesn't run, you can use him writing in console 'python main.py' after you changed the file_path
+-If you wanna run the program in console, you need write the path of the program. Example: 'C:\Users\yourUsername\Desktop\04-OrganizeFolders' then write 'python main.py'
+
+If doesn't run i will fix it soon :)!

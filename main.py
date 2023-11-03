@@ -7,7 +7,9 @@ import shutil
 
 print(os.getcwd())
 
-file_path = 'C:\\Users\mathi\Downloads'
+localUser = input(str('Write your path to organize them> '))
+
+file_path = localUser
 
 files = [f for f in listdir(file_path) if isfile(join(file_path, f))]
  
